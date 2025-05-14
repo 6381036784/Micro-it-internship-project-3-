@@ -1,0 +1,18 @@
+
+Project 3: To-Do List Application
+
+Overview:
+The To-Do List is a simple yet powerful task management application developed to help users organize their daily activities. It allows users to add tasks, mark them as completed, update task details, and delete tasks when no longer needed. This project emphasizes productivity and user experience by offering an intuitive interface.
+
+Features:
+- Add new tasks with task name and optional description.
+- Mark tasks as completed or revert to pending.
+- Edit and update existing tasks.
+- Delete tasks individually.
+- Filter tasks (All, Completed, Pending).
+- Responsive and clean design for desktop and mobile.
+
+Technology Used:
+- Frontend: HTML, CSS, JavaScript
+- Logic: Vanilla JavaScript (for dynamic interactions)
+- Storage: Browser LocalStorage (to save tasks)
